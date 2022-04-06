@@ -63,7 +63,7 @@ I had trouble adding the color overlay to the image, but after a little bit of g
 
 ### Useful resources
 
-- [Two ways to achive and image color overlay](https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio) - This helped me with image color overlay.
+- [Two ways to achieve an image color overlay](https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio) - This helped me with the image color overlay.
 
 ## Author
 
