@@ -49,8 +49,8 @@ I had trouble adding the color overlay to the image, but after a little bit of g
 
 ```html
 <picture class="block order-2 bg-violet">
-  <source src="{imageHeaderDesktop}" media="(min-width: 640px)" sizes="540x466" />
-  <source src="{imageHeaderMobile}" media="(max-width: 640px)" />
+  <source srcset="{imageHeaderDesktop}" media="(min-width: 640px)" />
+  <source srcset="{imageHeaderMobile}" media="(max-width: 640px)" />
   <img
     class="opacity-70 mix-blend-multiply"
     src="{imageHeaderDesktop}"

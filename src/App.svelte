@@ -6,8 +6,8 @@
   <div
     class="max-w-xs md:max-w-xl lg:(grid grid-cols-2 max-w-5xl) | bg-blue-800 rounded-lg shadow-lg overflow-hidden">
     <picture class="block order-2 bg-violet">
-      <source src={imageHeaderDesktop} media="(min-width: 640px)" sizes="540x466" />
-      <source src={imageHeaderMobile} media="(max-width: 640px)" />
+      <source srcset={imageHeaderDesktop} media="(min-width: 640px)" />
+      <source srcset={imageHeaderMobile} media="(max-width: 640px)" />
       <img
         class="opacity-70 mix-blend-multiply"
         src={imageHeaderDesktop}
