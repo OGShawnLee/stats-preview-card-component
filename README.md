@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [To be added](https://your-solution-url.com)
+- Solution URL: [Right here!](https://www.frontendmentor.io/solutions/fully-responsive-stats-preview-card-built-with-svelte-and-windicss-rkEGyRF4q)
 - Live Site URL: [Deployed on Vercel](https://stats-preview-card-component-seven-virid.vercel.app/)
 
 ## My process
