@@ -25,8 +25,8 @@
         Discover the benefits of data analytics and make better decisions regarding revenue,
         customer experience, and overall efficiency.
       </p>
-      <section class="mt-6" id="stats" aria-labelledby="stats-label">
-        <label class="sr-only" for="stats" id="stats-label"> Stats </label>
+      <section class="mt-6">
+        <h2 class="sr-only">Stats</h2>
         <ul class="inline-flex flex-col md:(flex-row gap-12) gap-4 children:(flex flex-col gap-1)">
           <li>
             <b class="text-2xl text-white"> 10K+ </b>
